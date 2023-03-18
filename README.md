@@ -6,6 +6,6 @@ This is a Simple Chat App project for first assignment in Codigri
 
 - Clone this Project
 - flutter pub get
-- flutter run -e chrome
+- flutter run -d chrome
 - open the same link in different tab and select different user
 - start chat
