@@ -1,6 +1,6 @@
 # simple_chat_app
 
-This is a Simple Chat App project for first assignment in Codigiri
+This is a Simple Chat App project for first assignment in Codigri
 
 # Getting Started
 

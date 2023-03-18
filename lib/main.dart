@@ -72,7 +72,7 @@ class _ChatScreenState extends State<ChatScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text('Simple Chat App - Codigiri')),
+      appBar: AppBar(title: const Text('Simple Chat App - Codigri')),
       body: Row(
         children: [
           SizedBox(
